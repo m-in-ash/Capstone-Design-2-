@@ -49,27 +49,57 @@
 
 ## 🖥️ 주요 화면
 
-### 1️⃣ 메인 지도 화면
+### 1️⃣ 메인 지도 페이지
 <img width="1919" height="860" alt="image" src="https://github.com/user-attachments/assets/8bfaf551-3fb1-40f3-af9d-3657e09c9b0d" />
 
-- 서울시 흡연시설 위치 시각화
 - 사용자 중심 인터페이스 설계
+- 서울시 흡연시설 위치 지도 시각화
+- 검색 기능
+  - 키워드 입력 시 해당 지역 중심 지도 이동
+  - 사용자 입력 기반 필터링 UX 구현
 
 ---
 
-### 2️⃣ 검색 기능
-![search](./img/search.png)
+### 2️⃣ 시설 수요 분석 페이지  
+<img width="1336" height="866" alt="image" src="https://github.com/user-attachments/assets/2f28d460-6ad9-46b3-b1eb-900bd13f3cf5" />
+> 자치구별 수요 분석 결과를 시각화하여
+> 시[CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
 
-- 키워드 입력 시 해당 지역 중심 지도 이동
-- 사용자 입력 기반 필터링 UX 구현
 
 ---
 
-### 3️⃣ 수요 분석 결과
-![analysis](./img/analysis.png)
+# 🎨 UI / UX 설계
 
-- 자치구별 수요 분석 결과 시각화
-- 데이터 기반 의사결정 지원
+- Figma를 활용하여 사용자 중심 UI 설계
+- 지도 중심 인터페이스 + 직관적인 검색 UX 구성
+
+## 🖥️ 주요 화면
+
+### 1️⃣ 메인 지도 페이지
+<img width="1919" height="860" alt="image" src="https://github.com/user-attachments/assets/8bfaf551-3fb1-40f3-af9d-3657e09c9b0d" />
+
+- 사용자 중심 인터페이스 설계
+- 서울시 흡연시설 위치 지도 시각화
+- 검색 기능
+  - 키워드 입력 시 해당 지역 중심 지도 이동
+  - 사용자 입력 기반 필터링 UX 구현
+
+---
+
+### 2️⃣ 시설 수요 분석 페이지  
+<img width="1336" height="866" alt="image" src="https://github.com/user-attachments/assets/2f28d460-6ad9-46b3-b1eb-900bd13f3cf5" />
+> 자치구별 수요 분석 결과를 시각화하여
+> 데이터 기반 의사결정을 지원할 수 있는 자료로 사용할 수 있음.
+
+- 목차
+  1. 분석 목표
+  2. 독립변수 선정
+  3. 독립변수 시각화
+  4. Permutation Importance
+  5. 흡연구역 수요 파악
+
+
 
 ---
 
