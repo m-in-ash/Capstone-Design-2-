@@ -112,20 +112,20 @@ Client → HTML + JS → JSON 데이터 → 지도 렌더링
 
 # 📂 프로젝트 구조
 
+```bash
 Capstone-Design-2-/
+├── index.html        # 메인 페이지
+├── data.html         # 데이터 페이지
+├── contactweb.html   # 웹 문의 페이지
+├── contactarea.html  # 지역 문의 페이지
 │
-├── index.html # 메인 페이지
-├── data.html # 데이터 페이지
-├── contactweb.html # 웹 문의 페이지
-├── contactarea.html # 지역 문의 페이지
+├── css/              # 스타일
+├── js/               # 클라이언트 로직
+├── img/              # 이미지 리소스
+├── data/             # JSON 데이터
 │
-├── css/ # 스타일
-├── js/ # 클라이언트 로직
-├── img/ # 이미지 리소스
-├── data/ # JSON 데이터
-│
-├── app.py # (기존 Flask 서버)
-├── map.py # 지도 생성 로직
+├── app.py            # (기존 Flask 서버)
+├── map.py            # 지도 생성 로직
 └── README.md
 
 
