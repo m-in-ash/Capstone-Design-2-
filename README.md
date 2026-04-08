@@ -127,13 +127,14 @@ Capstone-Design-2-/
 ├── app.py            # (기존 Flask 서버)
 ├── map.py            # 지도 생성 로직
 └── README.md
-
+```
 
 ---
 
 # 🔄 데이터 흐름 다이어그램
 
 ## 🧩 기존 구조 (Flask)
+```bash
 [Client]
 ↓ request
 [Flask Server]
@@ -141,11 +142,12 @@ Capstone-Design-2-/
 [데이터 가공]
 ↓
 [HTML 반환]
-
+```
 
 ---
 
 ## 🌐 현재 구조 (정적 웹)
+```bash
 [Client Browser]
 ↓
 [index.html]
@@ -155,9 +157,9 @@ Capstone-Design-2-/
 [data.json]
 ↓
 [지도 렌더링]
+```
 
-👉 핵심:
-> 서버 없이 클라이언트 단에서 모든 처리 수행
+👉 서버 없이 클라이언트 단에서 모든 처리 수행
 
 ---
 
