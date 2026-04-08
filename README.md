@@ -5,23 +5,6 @@
 
 ---
 
-## 🌐 Live Demo
-
-👉 https://m-in-ash.github.io/Capstone-Design-2-/
-
----
-
-## 🏷️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Folium](https://img.shields.io/badge/Folium-77B829?style=flat)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-
----
-
 ## 📌 프로젝트 개요
 
 - **주제**: 서울시 흡연부스 지도 웹 서비스  
@@ -37,8 +20,25 @@
 - 공공장소에서 흡연시설 부족으로 인한  
   → **무분별한 흡연 문제 발생**
 
-👉 단순 정보 제공이 아닌  
-👉 **데이터 기반 수요 분석 + 시각화 서비스 필요**
+👉 단순 정보 제공이 아닌, **데이터 기반 수요 분석 + 시각화 서비스 필요**
+
+---
+
+## 🌐 Live Demo
+
+👉 https://m-in-ash.github.io/Capstone-Design-2-/
+
+---
+
+## 🏷️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=flat)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+
 
 ---
 
