@@ -1,7 +1,7 @@
 # 🚬 서울시 흡연시설 지도 웹 서비스
-(url : https://m-in-ash.github.io/Capstone-Design-2-/)
 > 서울시 흡연시설의 위치를 시각화하고,  
 > 지역별 수요를 분석하여 공공시설 개선 방향을 제시하는 웹 서비스
+(https://m-in-ash.github.io/Capstone-Design-2-/)
 
 ---
 
