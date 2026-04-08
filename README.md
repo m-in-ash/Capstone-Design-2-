@@ -63,9 +63,13 @@
 ### 2️⃣ 시설 수요 분석 페이지  
 <img width="1336" height="866" alt="image" src="https://github.com/user-attachments/assets/2f28d460-6ad9-46b3-b1eb-900bd13f3cf5" />
 > 자치구별 수요 분석 결과를 시각화하여
-> 시[CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-
+> 데이터에 기반한 의사결정을 지원하기 위한 자료로 사용 가능.
+- 목차
+1. 분석 목표
+2. 독립변수 설정 근거
+3. 독립변수 시각화
+4. Permulation Importance
+5. 자치구별 흡연구역 수요 파악
 
 ---
 
