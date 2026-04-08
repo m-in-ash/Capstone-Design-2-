@@ -50,7 +50,7 @@
 ## 🖥️ 주요 화면
 
 ### 1️⃣ 메인 지도 화면
-![main](./img/main.png)
+<img width="1919" height="860" alt="image" src="https://github.com/user-attachments/assets/8bfaf551-3fb1-40f3-af9d-3657e09c9b0d" />
 
 - 서울시 흡연시설 위치 시각화
 - 사용자 중심 인터페이스 설계
